@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HafyzZ/HafyzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey 👋, Eu souu Rafael</h1>
+<h1 align="center">Hey 👋, Eu sou Rafael</h1>
 <h3 align="center">Tentando entrar no mundo dos dados</h3>
 
 <h3 align="left">Connect with me:</h3>
